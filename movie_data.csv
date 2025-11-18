@@ -1,0 +1,446 @@
+Movie Title,Sessions,Admits,Net Revenue (MNT),Gross Revenue (MNT),Occupancy %,"ATP (Avg. Ticket Price, MNT)",Genre,Director,Cast,Production Company
+Зура III: Цэвэрлэгээ,702,"63,315","657,917,999.56","723,709,800.00",34.28%,"11,430.31","Action, Crime, Thriller",Tamir Bat-Ulzii,"Bayarbat Mishigdorj, Barslhagva Batbold, Yalalt Namsrai",Fantastic Production
+Баян Боол,672,"71,406","580,197,000.97","638,194,700.00",30.81%,"8,937.55",Comedy,Dashzevegiin Munhbat,"Temuujin Odkhuu, Nomin Batbayr Naransolongo Gansukh ",Mill Kino Company 
+Зура 2: Цурам ажиллагаа,542,"58,790","453,427,146.38","498,660,900.00",37.49%,"8,482.07","Crime, Action, Thriller",Tamir Bat-Ulzii,"Altanshagai Jargalsaikhan, Barslhagva Batbold, Ganchuluun Baatar ",Fantastic Production
+Avatar 2: Way of Water,644,"48,658","435,282,363.94","478,457,800.00",33.28%,"9,833.08","Science Fiction, Action, Adventure",James Cameron,"Sigourney Weaver, Zoe Saldana, Sam Worthington",20th Century Studios
+Хэлгүй Жим-2: Дада,401,"40,414","391,308,545.46","430,409,500.00",28.05%,"10,650.01","Drama, Comedy",Gantumur Davaazul,"Tserendagva Purevdorj, Davaazul Gantumur, ",Etik Production
+Монгол,684,"42,695","360,298,091.40","396,327,900.00",30.00%,"9,282.77","Drama, History",Amarsaikhan Baljinnyam ,"Amarsaikhan Baljinnyam, Sunduijav Batjargal, Dalaitseren Bayanzul",17 Production
+Ноён эмэгтэй,583,"38,736","302,946,346.08","333,206,900.00",20.03%,"8,602.00","Drama, Adventure",Uranchimeg Urtnasan,"Uranchimeg Urtnasan, Dulguun Odkhuu, Dorjsuren Shadav ",
+Үхлийн тойрог,783,"28,260","260,007,545.56","286,008,300.00",12.23%,"10,120.61",Horror,Tanit Jitnukul.,"Ariunbyamba Suhee, Udval Sengeeg, Byambatsogt Dashnyam ",Dream Entertainment 
+Suit Busgui,430,"30,826","254,591,727.65","280,024,700.00",26.48%,"9,084.04",Horror,Luk Manini,"Undarmaa Gonchig, Erdenezaan Puntsag, Tuya Amar ",U film
+Spider-Man: No Way Home,361,"30,210","243,420,254.94","267,760,600.00",37.01%,"8,863.31","Superhero, Action, Adventure, Science Fiction",Jon Watts,"Tom Holland, Toby Maguire, Andrew Garfield ",Sony Pictures
+Бүсгүй,266,"22,673","229,889,908.99","252,807,900.00",24.41%,"11,150.17","Romance, Drama",Bazarsad Lkhagvadorj,"Ariunbyamba Suhee, Ariunbolor Gansukh, Hosbayar Dondog ",Mongol Film Group
+Kung Fu Panda 4,435,"24,546","207,080,909.37","227,789,000.00",21.66%,"9,280.09","Animated, Action, Adventure, Martial Arts",Mike Mitchell,"Jack Black, Awkwafina, Bryan Cranston",Universal Pictures 
+Хүлээх өрөө,178,"19,975","201,705,818.10","221,816,300.00",33.93%,"11,140.73",Drama ,Naranbaatar Davaasuren,"Nomingerel Jigmedsuren, Sumiyadorj Huselbaatar, Altanshagai Ganbaatar",Hulegu Pictures
+Inside Out 2,528,"20,835","192,980,090.94","212,278,100.00",13.38%,"10,188.53","Animated, Fantasy, Comedy, Family",Kelsey Mann,"Amy Poehler, Maya Hawke, Kensington Tallman",Pixar
+Hermel Jujigchid,315,"21,661","180,729,182.08","198,798,100.00",24.68%,"9,177.70",Comedy,Amartuvshin Tsolmon,"Huntsenguun Battulag, Erhembayar Ganbold, Anhbayar Batbaatar",F Studio
+Niilsel huuhen,404,"21,661","176,153,636.66","193,757,000.00",16.50%,"8,944.97",,,,
+Sureg,402,"22,186","169,999,782.21","186,996,000.00",20.48%,"8,428.56",Historical Drama,Bazarragchaa Otgontuul,"Bat-Ulzii Osor, Erhembayar Ganbold, Adiya Rentsenhorloog",Black Zebra 
+Mardai,307,"20,656","160,072,909.47","176,077,800.00",21.78%,"8,524.29",Historical Drama,Jambaldorj Jamyasuren,"Enhjin Altantam, Davaazul Gantumur, Uchral Undraa",Etik Production 
+Эрдэнэсийн арал,437,"16,315","157,158,000.00","172,837,200.00",19.63%,"10,593.76",Adventure,Tsegmed Orgodol,"Batnyambuu Enhtaivn, Erhembayar Ganbold, Naranmunkh Magsarjav",Orange Entertainment
+Moana 2,387,"16,110","152,339,272.74","167,478,600.00",12.23%,"10,395.94","Animated, Musical, Adventure",David Derrick Jr.,"Dwayne Johnson, Awhimal Fraser, Nicole Scherzinger",Walt Disney Pictures
+Хамгийн сайхан нь 2,268,"16,120","149,381,363.69","164,319,500.00",19.82%,"10,205.87",Tragicomedy,Orgodol Bat-zorig,"B. Anu-Ujin, Enhjamts Sharavjamts, Yondon Tsog ",Tsetsenenkh Production 
+Зүүдний кафе,411,"18,328","148,783,818.44","163,634,700.00",18.40%,"8,928.13",Romance Drama,Ganbat Ganlkhagva,"N. Anar, B Saihanbileg, D. BIlguunbold",The Master Films
+Thor: Love and Thunder,516,"18,542","148,042,618.39","162,834,800.00",11.59%,"8,781.94","Action, Adventure, Fantasy, Comedy",Taika Waititi,"Chris Hemsworth, Christian Bale, Natalie Portman ",Marvel Studios 
+In Da House,289,"20,038","147,604,931.32","162,280,500.00",22.84%,"10,260.60",Comedy,Tseren Amartuvshin,"Lhagvatseren Ganbayar, Tsogtbayar Urantsogt, Suhbold Ragchaabazar",F Studio 
+,,,,,,,,,,
+Хувь заяа,311,"14,612","138,223,636.38","152,046,000.00",17.31%,"10,405.56","Drama, Romance",Ganhuyag Byambasuren,"Ganbaatar Chagnaadorj, Bayarmaa Bathuyag, Purevsuren Dorj ",Huvisal Production 
+Хар Ажил,276,"17,334","134,188,763.93","147,559,000.00",22.26%,"8,512.69","Comedy, Action",Davaazul Gantumur,"Enhjin Altantam, Davaazul Gantumur, Tumurhuyag Tsegmid ",Etik Production
+Aquaman and The Lost Kingdom,350,"13,717","132,430,272.69","145,605,800.00",18.10%,"10,614.99","Superhero, Action, Adventure, Fantasy",James Wan,"Jason Momoa, Amber Heard, Patrick Wilson",Warner Bros. Pictures​
+Тал нутгийн Зомби,354,"17,069","126,775,818.52","139,450,600.00",13.13%,"8,169.82",Horror,Otgonzorig Batchuluun,"Byambatsogt Dashnyam, Gerelsukh Otgoni, Purevjav Uhnaa",UB Media Film Group
+Наймаа,271,"14,824","125,782,363.80","138,358,600.00",18.73%,"8,493.32","Adventure, Drama",Davaazul Gantumur,"Enhjin Altantam, Davaazul Gantumur, Baatarhuu Boldbaatar",Etik Production
+Өмнөдийг зорих замд,276,"13,217","125,680,272.74","138,248,300.00",18.10%,"10,459.88",Drama,Subd Bat-Tulga,"Park Kwang Hyun, Sara tuya Sambuu, Oh Soo Jung ",Tulgatan Pictures
+Despicable Me 4,405,"13,175","121,011,909.11","133,113,100.00",11.03%,"10,103.46","Animated, Comedy",Chris Renaud,"Steve Carell, Kristen Wiig, Pierre Coffin",Illumination Entertainment
+Doctor Strange 2,246,"13,345","114,802,709.18","126,280,500.00",14.09%,"9,476.12","Superhero, Action, Adventure, Fantasy, Horror",Sam Raimi,"Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor",Marvel Studios
+Hunii Tsanaa 2: Huulias Gaduur,185,"13,969","108,153,582.09","118,986,700.00",24.72%,"8,516.48",,,,
+Хүний эзэн,243,"12,406","106,652,477.39","117,298,350.00",17.31%,"9,454.97",,,,
+The Roundup: Punishment,246,"11,385","104,921,454.57","115,413,000.00",14.29%,"10,137.54","Action, Crime, Drama",Heo Myeong-haeng,"Ma Dong-seok, Son Suk-ku, Choi Gwi-hwa",ABO Entertainment​
+Evil Dead Rise,166,"11,996","104,124,454.66","114,534,900.00",27.38%,"9,547.76",Horror,Lee Cronin,"Alyssa Sutherland, Lily Sullivan, Morgan Davies",New Line Cinema
+Homies 2,253,"11,140","103,041,909.13","113,711,000.00",15.63%,"10,101.76",Comedy,Amgalan Baatarkhuu,"E Dorjderem, Enhtulga Tsogt-Ochir, T Nyamdavaa",Homies Production
+Minions: The Rise of Gru,481,"15,702","100,706,200.36","110,743,300.00",14.70%,"7,052.81"," Animated, Comedy, Adventure",Kyle Balda,"Steve Carell, Pierre Coffin, Taraji P. Henson", Illumination Entertainment
+Wakanda Forever,224,"11,060","97,690,709.16","107,401,300.00",13.85%,"8,719.00","Superhero, Action, Adventure, Fantasy",Ryan Coogler,"Letitia Wright, Lupita Nyong'o, Danai Gurira",Marvel Studios
+III дахь Цохилт,248,"9,964","97,011,818.18","106,723,000.00",18.72%,"10,792.86","Drama, Thriller",Erkhemburen Ravjih,,
+Eternals,154,"12,805","97,001,909.32","106,702,100.00",27.20%,"8,332.85","Superhero, Action, Adventure, Fantasy",Chloe Zhao,"Gemma Chan, Richard Madden, Angelina Jolie​",Marvel Studios
+Minii Sahiulgagui Zalu,197,"12,806","95,567,147.07","105,121,665.00",21.34%,"8,208.48",Comedy,Tseren Amartuvshin,,
+Barbie,236,"12,011","94,348,636.55","103,753,200.00",16.25%,"8,406.24","Fantasy, Comedy, Adventure",Greta Gerwig,"Margot Robbie, Ryan Gosling, Simu Liu",Warner Bros. Pictures
+Б1 Давхар,215,"9,222","89,793,636.35","98,750,000.00",18.86%,"10,708.09",Action,Lkhagvadorj Bazarsad,,
+Meg 2: The Trench,184,"9,974","89,142,636.42","98,056,900.00",15.20%,"9,831.25","Action, Science Fiction, Thriller",Ben Wheatley,"Jason Statham, Jing Wu, Shuya Sophia Cai",Warner Bros. Pictures
+Баавгай болжмор,405,"10,904","88,812,636.50","97,593,900.00",9.04%,"8,442.69",,,,
+Луд,227,"10,380","86,982,181.95","95,680,400.00",13.97%,"9,217.42",Horror,Battulga A,,
+Uulin namar,311,"10,329","80,141,491.09","88,149,000.00",13.98%,"8,534.13","Romance, Drama, Thriller",Tserenbold Tsegmed ,,
+Godzilla x Kong: The New Empire,116,"5,424","52,832,636.35","58,115,900.00",23.22%,"10,714.58","Action, Adventure, Science Fiction",Adam Wingard,"Alexander Skarsgård, Rebecca Hall, Brian Tyree Henry",Legendary Pictures
+Золисо 6/16,225,"5,491","52,206,545.46","57,427,200.00",8.98%,"10,458.42","Drama, Thriller, Action",E. Davaasuren,E. Davaasuren,
+Immersion,194,"6,502","49,853,295.51","54,790,250.00",8.72%,"8,426.68","Mystery, Horror",Takashi Shimizu,,
+95 Зуудний хүн,195,"6,119","49,152,204.58","54,020,550.00",12.54%,"8,828.33",Historical Drama,Davaasuren Enkhbat,,
+Room 203,234,"6,379","46,057,545.59","50,663,300.00",7.87%,"7,942.20","Horror, Thriller",Ben J. Weiner,,
+Smile,105,"6,338","44,950,054.69","49,430,500.00",19.67%,"7,799.07","Horror, Thriller",Parker FInn,"Sosie Bacon, Jessie T. Usher, Kyle Gallner",Paramount Pictures 
+Миний хүүтэй гэрлээч,177,"5,322","44,430,727.33","48,829,800.00",17.72%,"9,175.08",Comedy,Huselbaatar Tsog ,"Byambatsogt Dashnyam, Munkhsaikhan Jijirdoog, Chaminchuluun Luvsangomb",
+The Marvels,153,"4,604","43,347,295.44","47,641,150.00",9.28%,"10,347.77","Superhero, Action, Adventure, Science Fiction",Nia DaCosta,"Brie Larson, Teyonah Parris, Iman Vellani",Marvel Studios
+Red One,157,"4,732","42,725,909.11","46,984,600.00",15.50%,"9,929.12","Christian, Action, Comedy",Jake Kasdan,"Dwayne Johnson, Chris Evans, Kiernan Shipka",Amazon Studios
+Invitation,178,"5,789","41,225,272.86","45,340,600.00",15.88%,"7,832.20","Horror, Thriller",Jessica M. Thompson,"Thomas Doherty, Nathalie Emmanuel, Stephanie Corneliussen",Sony Pictures
+Sonic the Hedgehog 3,169,"4,817","40,665,363.69","44,675,200.00",12.50%,"9,274.49","Action, Adventure, Comedy",Jeff Fowler,"Ben Schwartz, James Marsden, Tika Sumpter",Paramount Pictures
+The Exorcist Believer,91,"4,938","40,097,022.79","44,082,850.00",16.19%,"8,927.27","Horror, Thriller",David Gordon Green,"Leslie Odom Jr., Ann Dowd, Ellen Burstyn",Blumhouse Productions
+Munh Tunh Ymar neg ym avarsan ni,203,"5,790","38,543,636.51","42,334,000.00",14.56%,"7,311.47",,,,
+Эмэгтэйч кейс,138,"4,429","38,424,613.68","42,234,450.00",16.99%,"9,535.89",Documentary,Galbayar Dashkhuu,,
+Zalgamjlagch,139,"5,179","38,191,000.11","42,007,700.00",14.91%,"8,111.16",Drama,B. Bathuyg ,"Enhjin Altantam, Batnyambuu Enhtaivn, Purevjargal Erdenebileg",
+Talk to me,108,"4,399","37,825,090.95","41,607,600.00",17.10%,"9,458.42","Supernatural, Horror",Danny and Michael Philippou,"Sophie Wilde, Miranda Otto, Alexandra Jensen",Causeway Films 
+Амьдралын хурд,218,"4,061","37,389,536.37","41,128,490.00",11.16%,"10,127.68",Drama,Alexandr Mieegombo,,
+Haikyuu!! The Dumpster Battle,151,"4,265","36,392,000.05","40,031,200.00",12.44%,"9,385.98","Animated, Sports",Susumu MItsunaka,"Ayumu Murase, Yuichi Nakamura, Yuki Kaji",Production I.G
+Men Of Plastic,128,"4,358","35,562,545.51","39,048,800.00",18.25%,"8,960.26",Comedy,Lim Jin-sun,"Jung Kyung-ho, CHA WOO JIN, Ma Dong-seok",EDKO Film
+Alien: Romulus,147,"3,863","35,328,000.02","38,860,800.00",11.07%,"10,059.75","Science Fiction, Horror",Fede Alvarez,"Cailee Spaeny, Isabela Merced, David Jonsson",20th Century Studios
+Black Adam,105,"4,942","35,097,036.46","38,592,100.00",19.48%,"7,809.00","Superhero, Action, Fantasy",Jaume Collet-Serra,"Dwayne Johnson, Aldis Hodge, Pierce Brosnan",New Line Cinema
+Kingdom of the Planet of the Apes,94,"3,718","34,807,454.55","38,220,000.00",14.34%,"10,298.06",Science Fiction ,Wes Ball,"Freya Allan, Kevin Durand, Owen Teague",20th Century Studios
+Ant-Man and Wasp: Quantumania,105,"4,048","34,685,545.49","38,154,100.00",12.89%,"9,425.42","Superhero, Action, Adventure, Science Fiction",Peyton Reed,"Paul Rudd, Evangeline Lilly, Jonathan Majors",Marvel Studios
+Mufasa: The Lion King,132,"3,431","34,431,454.53","37,857,300.00",12.29%,"11,033.90","Musical, Drama",Barry Jenkins,"Aaron Pierre, Kelvin Harrison Jr., John Kani",Walt Disney Pictures
+Byatshan Chutgurin Husel,113,"4,930","34,277,818.30","37,674,800.00",7.31%,"7,641.95","Histroical, Drama",N. Baysaa,,
+Guardians of The Galaxy Vol. 3,89,"3,932","33,716,454.58","37,088,100.00",18.93%,"9,432.38","Superhero, Action, Adventure, Science Fiction",James Gunn,"Chris Pratt, Zoe Saldana, Dave Bautista",Marvel Studios
+Prey For The Devil,82,"4,622","33,214,036.47","36,529,600.00",18.12%,"7,903.42","Horror, Thriller",Daniel Stamm,"Jacqueline Byers, Virginia Madsen, Colin Salmon",Lionsgate​
+Hirteegui Sarnai,157,"4,117","32,402,272.80","35,642,500.00",14.61%,"8,657.40","Romance, Drama",Huselbaatar Tsog,"Bayarmaa Huselbaatar, Amgalanbaatar Odongavaa, Ulziikhuu Sanjaa",Khas Film Studio
+Doctor,107,"4,113","31,294,327.35","34,421,600.00",17.01%,"8,368.98","Action, Comedy",Nelson Dilipkumar,"Priyanka Mohan, Sivakarthikeyan, Vinay Rai",KJR Studio 
+The Roundup,104,"4,189","31,214,454.63","34,335,900.00",23.08%,"8,196.68","Action, Crime",Lee Sang-yong,"Ma Dong-seok, Son Suk-ku, Park Ji-hwan",B. A. Entertainment
+Tsagaan Ereg,151,"3,576","31,133,363.67","34,246,700.00",17.31%,"9,576.82",Drama,Amartuvshin Tsolmon,"Todgerel Erdentuya, OChgerel Chimed, N Baysaa",F Studio
+Гэрэл,115,"3,322","30,052,000.01","33,047,700.00",15.99%,"9,948.13",Documentary,Christian Als,"Erdenezaan Puntsag, Tumurhuyag Tsegmed, Chuluuntsetseg Ganbat",Uulen Film
+Uilin Ulin Den Buudal,135,"4,020","29,918,636.45","32,910,500.00",15.90%,"8,186.69",Drama,Gombo Enkhbat,,
+Ghost,103,"4,129","29,402,363.73","32,342,600.00",13.50%,"7,833.03","Action, Thriller",Tsegmed Orgodol,"TSaschiher Hatanzorig, Todgerel Erdenetuya, Lhagvasuren Samdan",Reaction Production
+Suudreer Getegch,185,"3,866","29,231,272.80","32,154,400.00",6.23%,"8,317.23","Fantasy, Thriller",Batbayar Batkhulegiin,,
+Demon Slayer: Kimetsu No Yaiba - TTSV,52,"3,681","28,597,090.98","31,456,800.00",21.45%,"8,545.72","Animated, Dark, Fantasy",Haruo Sotozaki,"Aleks Le, Aoi Koga, Mariya Ise",ufotable
+The Labyrinth,91,"3,879","28,453,000.08","31,298,300.00",15.43%,"8,068.65","Horror, Thriller",Song Woon,"Kang Chan Hee, Park Yoo-na, Jang Gwang",WiseWolf
+Scream VI,105,"3,542","28,244,727.32","31,069,200.00",18.61%,"8,771.65","Horror, Thriller",Matt Bettinelli-Olpin,"Jenna Ortega, Melissa Barrera, Mikey Madison",Spyglass Media Group
+Transformers Rise of the Beasts,139,"3,407","27,945,818.19","30,740,400.00",14.32%,"9,202.72","Action, Adventure, Science Fiction",Steve Caple Jr.,"Anthony Ramos, Peter Cullen, Dominique Fishback",Hasbro 
+Тиүран,72,"2,714","27,577,818.17","30,327,600.00",16.72%,"11,174.50",Thriller,Aibek Bektemirov,,
+The Super Mario Bros. Movie,106,"3,947","27,217,181.91","29,938,900.00",12.14%,"7,585.23","Animation, Adventure, Comedy",Aaron Horvath,"Chris Pratt, Charlie Day, Jack Black",Illumination 
+Single Guys,98,"3,476","26,957,636.42","26,957,636.42",17.22%,"8,968.20","Action, Comedy ",Jargalsaikhan Baatar,"Boldbaatar Baatarhuu, Ganbat Ezenmunh, Tsogbadrakh Aldarmaa",Lord Film Studios 
+Нойт талхны усны газар,98,"3,300","26,759,454.60","29,435,400.00",12.33%,"8,919.82","Animation, Comedy",Masahiro Matsuura,,
+No Rules,100,"3,334","26,071,727.33","28,678,900.00",11.56%,"8,601.95","Drama, Action, Thriller",Erkhemburen Ravjih,,
+The Batman,124,"3,598","25,864,454.61","28,450,100.00",16.94%,"7,607.20","Superhero, Action, Crime, Data",Matt Reeves,"Robert Pattinson, Zoë Kravitz, Paul Dano",DC Studios
+Spring Garden,78,"2,709","25,754,636.37","28,300,100.00",17.00%,"10,457.77",Horror,Koo Bon,"Kim Joo-ryung, Jo Yoon-hee, Heo Dong-won",JNC Media Group
+Demon Slayer: Hashira Training,96,"2,941","25,590,727.30","28,149,800.00",17.35%,"9,517.90","Action, Adventure, Fantasy",Harua Sotozaki,"Aleks Le, Aoi Koga, Mariya Ise",Ufotable
+Uncharted,143,"3,496","24,803,818.25","27,284,200.00",8.47%,"7,804.41","Action, Adventure, Fantasy",Ruben Fleischer,"Tom Holland, Sophia Ali, Rudy Pankow",Columbia Pictures
+Бидний араншин,149,"2,932","24,693,090.94","27,162,400.00",9.74%,"9,264.12",Drama. Comedy,Tseren Amartuvshin,"Delgersaikhan Danaa, Minjin Ulambat, Erdenezaan Puntsag ",F Studio
+Antlers,74,"3,369","24,685,254.61","27,154,800.00",14.38%,"9,036.29",Horror,Scott Cooper,"Jeremy T. Thomas, Jesse Plemons, Keri Russel",Searchlight Pictures
+One Piece The Film: Red,94,"3,317","24,310,272.80","26,721,300.00",11.67%,"8,055.86","Animation, Adventure, Fantasy",Goro Taniguchi ,"Ado, Kaori Nazuka, Kenjiro Tsuda",Toei Animation
+Project Silence,121,"2,543","24,125,818.18","26,538,400.00",12.71%,"10,435.86",Thrilller,Kim Tae-gon,"Lee Sun-kyun, Ju Ji-hoon, Park Ju-hyun",Blaad Studio
+SAW X,71,"2,910","23,990,750.03","26,375,950.00",13.07%,"9,963.90","Horror, Thriller",Kevin Greutert,"Tobin Bell, Shawnee Smith, Synnøve Macody Lund",Starz Entertainment
+Mavka,119,"3,413","23,918,363.72","26,310,200.00",14.55%,"7,708.82","Animation, Fantasy",Oleh Malamuzh,"Artem Pivovarov, Khrystyna Soloviy, Nataliya Denisenko",Notorius Pictures
+Soiltsoo,68,"3,257","23,724,091.43","26,095,955.00",13.40%,"8,012.27",Drama. Comedy,Davaanyam Bayarsaikhan,,
+Застав,171,"2,860","23,443,636.39","25,788,000.00",11.13%,"7,943.39",Action,B. Lhagvadulam,"Hulan Tumur, G. Ganbat, GOrjdagva Myagrmar",Mongol Mind
+Oppenheimer,97,"2,742","23,302,909.12","25,639,200.00",19.77%,"9,348.36","Biography, Drama, History ",Chirstopher Nolan,"Cillian Murphy, Florence Pugh, Josh Hartnett",UNiversal Pictures
+Joker: Folie à Deux,70,"2,340","22,930,090.91","25,223,100.00",12.69%,"10,779.10","Thriller, Action",Todd Phillips ,"Lady Gaga, Joaquin Phoenix, Harry Lawtey",Warner Bros. Pictures
+Fantastic Beasts 3,83,"3,065","22,924,636.42","25,217,100.00",16.49%,"8,227.44","Fantasy, Adventure ",David Yates ,"Mads Mikkelsen, Eddie Redmayne, Jude Law",Warner Bros. Pictures
+Trolls Band Together,139,"3,281","22,701,386.42","24,931,150.00",8.50%,"7,598.64","Animation, Comedy, Musical ",Walt Dohrn,"Brianna Mazzola, Daveed Diggs, Troye Sivan",DreamWorks Animation
+Bad Guys,119,"3,511","22,077,454.62","24,285,200.00",12.60%,"6,916.98","Animation, Comedy ",Pierre Perifel,"Sam Rockwell, Richard Ayoade, Anthony Ramos",DreamWorks Animation
+Хүй,128,"2,533","21,712,068.21","23,960,700.00",12.88%,"8,576.40",Drama ,Bat-Orgil Batkhuu,"N. Badmaa, N. Ider, H.Nahia",Lotus Pictures
+Surguuliin Suns,135,"3,041","21,476,090.98","23,623,700.00",8.81%,"7,768.40",Drama,Bujin Soyolbaatar ,,Prostar
+Clifford the Big Red Dog,105,"3,227","21,107,818.26","23,187,800.00",15.48%,"7,185.56","Animation, Comedy",Walt Becker,"Darby Camp, Jack Whitehall, Izaac Wang",Paramount Pictures​
+Wonka,146,"2,915","21,034,090.93","23,102,500.00",9.82%,"7,925.60","Fantasy, Adventure ",Paul KIng,"Timothée Chalamet, Olivia Colman, Sally Hawkins",Warner Bros. Pictures
+The Wild Robot,146,"2,544","20,853,545.49","22,936,700.00",8.43%,"9,016.30","Animation, Adventure ",Gavin Hood,"Kit Connor. Pedro Pascal, Mark Hamill",20th Century Studios
+Venom: Let There Be Carnage,89,"2,778","20,708,000.06","22,778,800.00",18.27%,"8,199.71","Action, Science Fiction, Superhero",Andy Serkis,"Tom Hardy, Woody Harrelson, Michelle Williams",Columbia Pictures
+Morbius,80,"2,811","20,536,090.97","22,589,700.00",14.18%,"8,036.18","Action, Science Fiction, Superhero",Daniel Espinosa,"Jared Leto, Matt Smith, Adria Arjona",Columbia Pictures
+Ulaan Tsetseg,93,"2,691","20,396,600.05","22,435,700.00",11.69%,"8,337.31",Drama,Batmunkh Sukhbaatar,"Undarmaa Gonchig, Huntsenguun Battulga, Boldbaatar Munhbat",U Film
+Migration,184,"2,796","20,375,181.87","22,395,200.00",5.17%,"8,009.73","Animation, Adventure, Fantasy",Benjamin Renner ,"Tresi Gazal, Awkwafina, Kumail Nanjiani",Illumination Entertainment​
+Dune Part Two,102,"1,957","20,193,545.44","22,212,900.00",11.84%,"11,350.49","Science Fiction, Adventure, Drama",Denis Villeneuve ,"Timothée Chalamet, Zendaya, Rebecca Ferguson",Legendary Pictures
+Гурван бүлны тарчлаан,65,"2,191","20,051,909.10","22,057,100.00",18.89%,"10,067.14",Drama ,Bat-Orgil Batkhuu,,
+Hair 2,77,"2,410","19,927,636.39","21,920,400.00",17.40%,"9,095.60","Drama, Romance",Tuvshinbayr Dashgerel,"Erdenezaan Puntsag, Batmend Baast, Batsumiya Batdorj",HERUB Entertainment
+Soulmate,87,"2,882","19,740,072.79","21,712,400.00",14.62%,"7,533.80","Drama, Romance",HurelbaatarTsogt,"Dorjnanjid Byamba, Ujin Buyanjargal, Enhbayar Dambasuren",Red Point Media
+Aldagdsan Udruud,91,"2,611","19,666,272.78","21,632,900.00",13.88%,"8,285.29","Drama, Action",Garamhand Baynjargal,"Tenuun-Erdene Garamhand, Amgalanbaatar Odongavaa, Michidmaa Tsatsralt",Nandii Pictures
+The Witch: Part 2. The Other One,57,"2,681","19,348,545.51","21,283,400.00",15.55%,"7,938.60","Action, Thriller",Park Hoon-jung,"Shin Si-ah, Park Eun-bin, Seo Eun-soo",Studio&NEW
+BTS: Yet To Come in Cinemas,26,"1,180","19,309,090.95","21,240,000.00",18.31%,"18,000.00",Documentary,Junsoo Park,"Kim Nam-joon, Kim Seok-jin, Min Yoon-gi",HYBE Corporation
+The Pope's Exorcist,45,"2,361","19,159,181.85","21,075,100.00",17.93%,"8,926.34","Horror, Thriller",Julius Avery,"Russell Crowe, Alex Essoe, Daniel Zovatto",Screen Gems
+The Garfield Movie,79,"2,384","18,967,363.67","20,846,100.00",11.66%,"8,751.72","Animation, Comedy",Mark Dindal,"Chris Pratt, Samuel L. Jackson, Ving Rhames",Alcon Entertainment
+Smile 2,75,"1,941","18,908,545.45","20,799,400.00",16.76%,"10,745.82","Horror, Thriller",Parker FInn,"Naomi Scott, Ray Nicholson, Kyle Gallner",Paramount Pictures
+Dungeons and Dragons: Honor Among Thieves,86,"2,267","18,002,909.12","19,802,200.00",11.33%,"8,734.98","Action, Adventure, Fantasy",John Francis Daley,"Chris Pine, Michelle Rodriguez, Regé-Jean Page",Paramount Pictures
+Etgeed,114,"2,354","17,810,363.68","19,591,400.00",8.17%,"8,322.60",Drama,Tseren Amartuvshin,"Erhembayr Ganbold, Yalalt Namsrai, Selenge Chadraabal",Hero
+Namaig Avaad Uldeech 2,59,"2,191","17,723,363.66","19,495,700.00",25.06%,"8,898.08","Comedy, Romance",Tseren Amartuvshin,,
+Hacker,106,"2,438","17,617,090.95","19,378,800.00",14.95%,"7,948.65","Thriller, Drama",Nekfeu ,"Chris Hemsworth, Viola Davis, Tang Wei",Legendary Pictures
+Ghost Station,66,"2,081","17,085,454.57","18,790,000.00",15.88%,"9,031.23","Horror, Thriller",Yong-ki Jeong,"Kim Bo-ra, Kim Jae-hyun, Shin So-yul",Megabox Plus M
+Cobweb,69,"1,951","16,867,454.57","18,554,200.00",17.54%,"9,510.10","Horror, Thriller",Samuel Bodin,"Song Kang-ho, Lim Soo-jung, Oh Jung-se",Anthology Studios
+Deed ail,99,"1,929","16,747,909.11","18,422,700.00",15.66%,"9,550.39",Drama,Bazarragchaa Otgontuul,"Battulga Ganbar, Narhajid N, Adiya Rentsenhorloo",Black Zebra
+Ainbo,92,"2,653","16,691,803.69","18,394,400.00",16.49%,"6,918.56","Animation, Adventure",Richard Claus ,"Lola Raie, Naomi Serrano, Dino Andrade",Tunche Films
+The Boogeyman,52,"2,006","16,545,363.66","18,199,000.00",15.94%,"9,072.73","Horror, Thriller",Rob Savage,"Sophie Thatcher, Chris Messina, Vivien Lyra Blair",20th Century Studios
+Don't Look At The Demon,49,"2,050","16,370,072.76","18,004,200.00",23.81%,"8,782.54","Horror, Thriller",Brad Douglas,"Fiona Dourif, Harris Dickinson, Malin Crépin",Ghost River Pictures
+Eejdee,60,"1,930","16,014,818.21","17,616,300.00",11.72%,"9,127.62","Horror, Thriller",Michael Pandolto ,"Molly C. Quinn, Jake Horowitz, Sean Gunn",Divide/Conquer
+Huh Tavilan,87,"2,031","15,761,454.58","17,337,600.00",19.16%,"8,536.48",Drama,Altantuya Tumurbaatar ,"Ji Il-joo, Park Ji-yeon, Cho Kyung-hun",Joy N Cinema
+Agnes,46,"2,097","15,524,145.50","17,073,200.00",23.14%,"8,141.73","Horror, Thriller",Mickey Reece,"Nanoka Hara, Hokuto Matsumura, Eri Fukatsu",CoMix Wave Films
+Gangnam Zombie,38,"1,860","15,316,181.84","16,844,800.00",33.97%,"9,059.14","Horror, Action",Lee Soo-choon,"Anya Taylor-Joy, Chris Hemsworth, Yahya Abdul-Mateen II​",Warner Bros. Pictures
+Намайг аваад үлдээч 3,65,"1,476","15,234,818.17","16,758,300.00",10.82%,"11,353.86","Comedy, Romance",Tseren Amartuvshin,"Atarbold B, Saranbileg Sh, Ulxiisaikhan G",
+Suzume,82,"2,071","15,073,531.86","16,570,760.00",9.48%,"8,001.33","Animation, Adventure, Drama",Makoto Shinkai,,
+Furiosa: A Mad Max Saga,55,"1,461","14,993,181.81","16,492,500.00",10.35%,"11,288.52","Action, Adventure ",George Miller,"Elsa Pataky, Chris Hemsworth, Tom Burke",Warner Bros. Pictures
+Будилаан,75,"1,806","14,378,545.48","15,812,400.00",10.31%,"8,755.48",,,,
+A Quiet Place: Day One,135,"1,561","14,145,818.19","15,560,400.00",4.87%,"9,968.23","Horror, Thriller",Michael Sarnoski,"Lupita Nyong'o, Joseph Quinn, Alex Wolff",Paramount Pictures
+Boonie Bears,64,"2,260","14,038,345.95","15,439,955.00",16.75%,"6,831.84","Animation, Adventure ",Ding Liang ,"Chris Boike, Joseph S. Lambert, Siobhan Lumsden",Fantawild Animation
+Abigail,66,"1,570","13,899,090.92","15,289,000.00",15.08%,"9,738.22","Fantasy, Adventure ",Aleksandr Boguslavskiy,"Tinatin Dalakishvili, Eddie Marsan, Rinal Mukhametov​",Kinoatis
+Хайрын гэрээ,71,"1,644","13,873,090.92","15,260,400.00",14.05%,"9,282.48","Comedy, Romance",Bayrsaikhan A ,"Hosbayr Dondog, Delgertsetseg E",
+Minii muu naiz,122,"1,950","13,871,018.68","15,265,800.00",8.28%,"7,824.03","Drama, Comedy",Munkh-Amidral B,,A&0 Production
+Gladiator 2,97,"1,322","13,775,090.90","15,152,600.00",10.77%,"11,461.88","Drama, Action",Ridley Scott,"Paul Mescal, Barry Keoghan, Denzel Washington",Paramount Pictures
+Z Zone,88,"1,490","13,418,272.74","14,760,100.00",11.45%,"9,906.11","Drama, Horror",,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jung",Show East
+Oldboy,99,"1,354","13,414,909.09","14,756,400.00",11.38%,"10,898.38","Thriller, Drama",Park Chan-wook,,
+Bagman,46,"1,417","13,305,818.18","14,636,400.00",30.58%,"10,329.15","Action, Thriller",Lee Tae-gon,"Sam Claflin, Antonia Thomas, Frankie Corio",Starz Entertainment
+Сургуульйн сүнс 3,75,"1,677","13,141,727.30","14,455,900.00",11.16%,"8,620.10","Horror, Thriller",Soyolbaatar Chuluuntogtoh ,,Cine Art
+Dark Nuns,56,"1,326","13,046,181.81","14,330,100.00",16.33%,"10,815.08","Horror, Thriller",Peter Du Pre,"Song Hye-kyo, Jeon Yeo-been, Lee Jin-wook",Next Entertainment World
+Shazam Fury of Gods,48,"1,708","12,713,454.58","13,982,800.00",16.07%,"8,186.65","Action, Adventure Superhero",David F. Sandberg,"Zachary Levi, Asher Angel, Jack Dylan Grazer",Warner Bros. Pictures
+John Wick: Chapter IV,80,"1,542","12,654,272.75","13,917,700.00",14.18%,"9,025.75","Action, Crime, Thriller",Chad Stahelski,"Keanu Reeves, Donnie Yen, Bill Skarsgård",Lionsgate
+Surguuliin Suns 2,55,"1,757","12,642,036.38","13,897,600.00",18.38%,"7,909.85",Drama,Soyolbaatar Chuluuntogtoh ,,Cine Art
+Scream,78,"1,726","12,479,545.49","13,727,500.00",15.60%,"7,953.36","Horror, Mystery, Thriller",Matt Bettinelli-Olpin,"Neve Campbell, Courteney Cox, David Arquette",Paramount Pictures
+Ride On,31,"1,501","12,384,636.38","13,623,100.00",31.89%,"9,076.02","Action, Comedy, Drama",Larry Yang,"Jackie Chan, Liu Haocun, Kevin Guo",Alibaba Pictures
+Ghostbusters: Afterlife,88,"1,700","12,363,545.49","13,599,900.00",9.29%,"7,999.94","Comedy, Fantasy, Horror",Jason Reitman,"Carrie Coon, Finn Wolfhard, Mckenna Grace",Columbia Pictures
+Saran hill,71,"1,608","12,136,818.21","13,350,500.00",13.76%,"8,302.56","Drama, Mystery, Thriller",Bat-Erdene Chimeddorj,,
+Tugsgul,57,"1,520","12,034,636.39","13,238,100.00",20.34%,"8,709.28",Drama,Batbayr Adilbish,,
+Амир үнэлэгдэж мөрий,58,"1,381","11,888,159.11","13,068,350.00",18.95%,"9,462.96",,,,
+The Flash,63,"1,506","11,663,272.75","12,829,600.00",8.83%,"8,518.99","Action, Adventure, Fantasy",Andy Muschietti,"Ezra Miller, Michael Keaton, Sasha Calle",Warner Bros. Pictures
+Тэнгисийн бурхан ба бичкан баатрууд,56,"1,658","11,603,386.40","12,746,350.00",14.29%,"7,687.79",,,,
+How To Save The Immortal,66,"1,685","11,582,090.94","12,691,800.00",10.85%,"7,532.23","Fantasy, Adventure, Drama",Derek Cianfrance,"Nikita Kologrivyy, Elizaveta Boyarskaya, Viktor Dobronravov",CTB Film Company
+Urban Myths,58,"1,394","11,565,909.11","12,722,500.00",21.50%,"9,126.61","Horror, Mystery, Thriller",Hong Won-ki,"BONG JAE HYUN, Arin, AleXa",Megabox JoongAng PlusM
+The Entity,42,"1,595","11,416,636.40","12,558,300.00",22.35%,"7,873.54","Horror, Mystery, Thriller",Diederik Van Rooijen,,
+Resident Evil: Welcome To Raccoon City,70,"1,561","11,411,818.21","12,553,000.00",14.44%,"8,041.64","Action, Horror, Mystery",Johannes Roberts,"Kaya Scodelario, Robbie Amell, Hannah John-Kamen",Constantin Film
+Sonic 2,46,"1,696","11,233,074.14","12,353,065.00",18.50%,"7,283.65","Animation, Action, Adventure",Jeff Fowler,"James Marsden, Ben Schwartz, Idris Elba",Paramount Pictures
+Captain America: Brave New World,38,987,"11,067,363.62","12,168,100.00",12.34%,"12,334.37","Action, Adventure, Sci-Fi",Julius Onah,"Anthony Mackie, Harrison Ford, Shira Haas",Marvel Studios
+Hunting Souls,51,"1,594","11,062,818.67","12,168,555.00",12.92%,"7,633.97","Horror, Thriller",David A. Armstrong,"Sunny Mabrey, Matt Borlenghi, Alpha Trivette",
+The Addams Family 2,101,"1,712","11,039,981.86","12,142,300.00",8.49%,"7,092.46","Animation, Comedy, Family",Greg Tiernan,"Oscar Isaac, Charlize Theron, Chloë",Metro-Goldwyn-Mayer Pictures
+Soril,53,"1,373","10,655,690.93","11,719,100.00",10.93%,"8,535.40",,,,
+Strange World,64,"1,537","10,626,963.67","11,673,100.00",11.38%,"7,594.73","Animation, Adventure, Family",Don Hall,"Jake Gyllenhaal, Dennis Quaid, Jaboukie Young-White",Walt Disney Pictures
+Longlegs,60,"1,064","10,413,272.72","11,454,600.00",10.13%,"10,765.60","Drama, Thriller",Various,"Nicolas Cage, Maika Monroe, Kiernan Shipka",Neon
+Big Trip 2,73,"1,640","10,321,563.67","11,344,200.00",11.11%,"6,917.20","Animation, Adventure, Comedy",Vladislav Bayramgulov,"Jesse McCartney, Anton Eldarov, Christian Wunderlich",Licensing Brands
+Avatar,51,"1,308","10,178,072.75","11,193,000.00",16.02%,"8,557.34","Action, Adventure, Fantasy",James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver",20th Century Fox​
+The Hunger Games: The Ballad of Songbirds,59,"1,029","10,067,636.36","11,062,400.00",6.00%,"10,750.63","Adventure, Sci-Fi, Thriller",Francis Lawrence,"Tom Blyth, Rachel Zegler, Peter Dinklage",Lionsgate
+Huhuu,37,"1,185","9,998,636.38","10,998,500.00",50.95%,"9,281.43",Drama,Jamiyansuren Janchivdorj,"Borkhuu Tangad, Tserenbold Tsegmed, Bayartsetseg Altangerel",Essech Entertainment
+Namag,60,"1,144","9,985,454.56","10,984,000.00",14.71%,"9,601.40",,,,
+Cracked,49,"1,434","9,819,054.58","10,800,400.00",12.95%,"7,531.66","Horror, Thriller",Oz Perkins,"Byron Cherry, Sarah Langenfeld, John Kapelos",Indie Rights
+Сэр сэр салхи,31,"1,123","9,798,181.83","10,775,500.00",9.55%,"8,595.28","Drama, Romance",Lkhagvadulam Purev-Ochir.,"Nomin-erdene Ariunbyamba, Azzaya Munhbat, Bulgan Chuluunbat",
+Ulaan Uruu,27,"1,234","9,786,727.29","10,765,400.00",25.12%,"8,723.99",,,,
+Blue Beetle,46,"1,218","9,637,000.02","10,600,700.00",10.04%,"8,703.37","Action, Adventure, Sci-Fi",Angel Manuel Soto,"Xolo Maridueña, Bruna Marquezine, George Lopez",Warner Bros. Pictures
+Ангдай,41,"1,047","9,607,181.82","10,567,900.00",16.85%,"10,093.51","Drama, History",Tugsjargal Amartuvshin,,
+Operation Undead,49,951,"9,563,000.00","10,519,300.00",13.30%,"11,061.30","Horror, Thriller",Kome Kongkiat Komesiri,"Thawatchanin Darayon, Akkarat Nimitchai, Seigi Ozeki",Kongkiat Production
+Madame Web,75,"1,179","9,526,454.56","10,479,100.00",9.39%,"8,888.13","Action, Adventure, Sci-Fi",S.J. Clarkson,"Dakota Johnson, Sydney Sweeney, Celeste O'Connor",Columbia Pictures
+My Sweet Monster,69,"1,604","9,497,509.57","10,446,155.00",6.11%,"6,512.57","Animation, Family, Fantasy",Vladimir Nikolaev,"Pauly Shore, Haylie Duff, Jon Heder",CTB Film Company
+BLACKPINK WORLD TOUR [BORN PINK],17,890,"9,441,563.63","10,385,720.00",20.04%,"11,669.35","Documentary, Music",Sung-Il Choi,"Jisoo, Jennie, Rosé, Lisa",YG entertainment
+Dolphin Boy,53,"1,368","9,298,272.76","10,228,100.00",12.22%,"7,476.68","Drama, Romance",Mohammad Kheyrandish,"Özge Yağız, Esra Bilgiç, Soraya Ghasemi",Sky Frame Studio
+Minii Uzesgelent Daguul,33,"1,131","9,166,909.10","10,083,600.00",20.93%,"8,915.65","Comedy, Romance",Saruulbuyan Bold,"Gantsogt D, Hulan D, Otgonabyr R",Falco Entertainment 
+Wish,81,"1,104","9,131,249.99","10,041,250.00",3.76%,"9,095.34","Animation, Adventure, Fantasy",Chris Williams,"Ariana DeBose, Chris Pine, Alan Tudyk",Walt Disney Pictures
+Never Let Go,46,"1,019","9,078,181.82","9,986,000.00",16.42%,"9,799.80","Drama, Thriller",Jonathan Narducci,"Angela Dixon, Rami Nasr, Sarah Perles",Strawberry Blonde Films
+Paws of Fury: The Legend of Hank,94,"1,408","8,822,763.66","9,703,600.00",7.87%,"6,891.76","Animation, Action, Comedy",Rob Minkoff,"Michael Cera, Samuel L. Jackson, Ricky Gervais",Paramount Pictures
+Marry Me,60,"1,136","8,759,545.47","9,635,500.00",8.85%,"8,481.95","Comedy, Music, Romance",Kat Coiro,"Jennifer Lopez, Owen Wilson, Maluma",Universal Pictures
+Finnick,32,"1,246","8,641,454.58","9,505,600.00",22.80%,"7,628.89","Drama, Romance",Denis Chernov,"Artur Babich, Danya Milokhin, Ida Galich",Riki Production
+The Strangers: Chapter 1,31,947,"8,584,181.82","9,442,600.00",11.30%,"9,971.07","Horror, Thriller",Renny Harlin,"Madelaine Petsch, Froy Gutierrez, Gabriel Basso",Lionsgate
+Lightyear,54,"1,375","8,462,182.30","9,303,055.00",7.08%,"6,765.86","Animation, Adventure, Sci-Fi",Angus MacLane,"Chris Evans, Tom Wlaschiha, Peter Sohn ",Pixar Animation Studios
+The Dragon Spell,77,"1,390","8,433,690.94","9,274,900.00",8.85%,"6,672.59","Animation, Adventure, Family",Vladislav Bayramgulov,,
+Bad Boys: Ride or Die,55,873,"8,191,727.27","9,010,900.00",11.56%,"10,321.76","Action, Comedy, Crime",Adil El Arbi,"Will Smith, Martin Lawrence, Jacob Scipio",Columbia Pictures
+Super Pets,61,"1,265","7,971,181.85","8,768,300.00",10.17%,"6,931.46","Animation, Action, Comedy",Jared Stern,"Kate McKinnon, Ben Schwartz, Kevin Hart",Warner Bros. Pictures
+Moonbound,45,"1,177","7,935,454.58","8,727,000.00",14.97%,"7,414.61","Animation, Adventure, Comedy",Alexander Gellner,"Aleks Le, Cindy Robinson, Proschat Madani",
+The Black Phone,75,"1,109","7,879,181.84","8,667,100.00",8.64%,"7,815.24","Horror, Thriller",Scott Derrickson,"Mason Thames, Ethan Hawke, Miguel Mora ",Universal Pictures
+Bullet Train,63,"1,014","7,694,018.20","8,462,700.00",8.02%,"8,345.86","Action, Comedy, Thriller",David Leitch,"Joey King, Brad Pitt, David Leitch",Sony Pictures 
+Escape,80,749,"7,527,454.54","8,280,200.00",12.07%,"11,055.01","Action, Adventure, Thriller",Martin Wood,"Lee Je-hoon, Koo Kyo-hwan, Seo Hyeon-woo",The Lamp
+Twisters,67,787,"7,436,454.55","8,180,100.00",8.30%,"10,394.03","Action, Adventure, Sci-Fi",Lee Isaac Chung,"Glen Powell, Kiernan Shipka, Maura Tierney",Amblin Netertainment
+Hunt,54,957,"7,281,636.38","8,009,800.00",15.30%,"8,369.70","Action, Thriller, Crime",Lee Jung-jae,"Go Youn-jung, Lee Jung-jae, Heo Sung Tae",Sanai Pictures
+Zurhen zug,35,832,"7,180,181.83","7,898,200.00",19.02%,"9,493.03","Drama, Action",Baynmunkh Batkhuu,"Bulgan Chuluunbat, Bathuslen Byambadorj, Ganjargal Batdorj",Warm Pictures
+Bugturelt Morihon,41,"1,127","7,131,945.47","7,837,300.00",16.56%,"6,954.13",,,,
+Winnie The Pooh Blood and Honey,39,825,"7,053,090.92","7,758,400.00",10.83%,"9,404.12","Horror, Mystery",Rhys Frake-Waterfield,"Natasha Tosini, May Kelly, Maria Taylor Hyatt",Jagged Edge Productions
+Onward,24,"1,076","6,966,509.12","7,662,600.00",12.53%,"7,121.38","Animation, Adventure, Comedy",Dan Scanlon,"Chris Pratt, Tom Holland, Octavia Spencer",Walt Disney Pictures 
+The Little Mermaid,34,966,"6,915,727.30","7,607,300.00",15.92%,"7,875.05","Adventure, Family, Fantasy",Rob Marshall,"Halle Bailey, Javier Bardem, Jessica Alexander",Walt Disney Pictures 
+Haunted Mansion,35,823,"6,809,636.37","7,490,600.00",13.62%,"9,101.58","Comedy, Fantasy, Horror",Justin Simien,"LaKeith Stanfield, Tiffany Haddish, Danny DeVito",Walt Disney Pictures 
+The Lost City,55,897,"6,545,454.56","7,200,000.00",8.84%,"8,026.76","Action, Adventure, Comedy","Aaron Nee, Adam Nee","Sandra Bullock, Channing Tatum, Daniel Radcliffe",Paramount Pictures
+Beetlejuice Beetlejuice,56,722,"6,524,090.91","7,176,500.00",7.08%,"9,939.75","Comedy, Fantasy, Horror",Tim Burton,"Tim Burton, Michael Keaton, Winona Ryder",Warner Bros. Pictures
+The War,33,924,"6,496,090.93","7,145,700.00",15.08%,"7,733.44","Drama, History, War",Edward Zwick,,
+Baghead,42,680,"6,397,636.36","7,037,400.00",10.91%,"10,349.12","Comedy, Drama, Horror","Jay Duplass, Mark Duplass","Freya Allan, Jeremy Irvine, Ruby Barker",Studio Babelsberg
+Beast,43,875,"6,314,727.29","6,946,200.00",12.28%,"7,938.51","Action, Drama, Thriller",Baltasar Kormákur,"Idris Elba, Sharlto Copley, Leah Jeffries",Universal Pictures
+Mission Impossible 7,59,748,"6,143,818.19","6,758,200.00",6.24%,"9,035.03","Action, Adventure, Thriller",Christopher McQuarrie,"Tom Cruise, Rebecca Ferguson, Hayley Atwell",Paramount Pictures 
+Stopmotion,49,660,"5,967,272.73","6,564,000.00",7.64%,"9,945.45","Animation, Drama, Fantasy",Various,"Aisling Franciosi, Caoilinn Springall, Stella Gonet",IFC Films
+Immaculate,35,650,"5,920,909.09","6,513,000.00",9.23%,"10,020.00","Drama, Thriller",Michael Spierig,"Sydney Sweeney, Álvaro Morte, Benedetta Porcaroli",Neon
+The Last Kiss,47,787,"5,890,000.01","6,479,000.00",8.18%,"8,232.53","Drama, Romance",Tony Goldwyn,,
+Mummies,44,837,"5,845,272.74","6,429,800.00",9.32%,"7,681.96","Animation, Adventure, Comedy",Juan Jesús García Galo,"Eleanor Tomlinson, Karina Pasian, Sean Bean",Warner Bros. Pictures
+Nope,58,781,"5,749,454.56","6,324,400.00",5.71%,"8,097.82","Horror, Mystery, Sci-Fi",Jordan Peele,"Daniel Kaluuya, Brandon Perea, Keke Palmer",Universal Pictures
+Cats in the Museum,70,790,"5,731,545.47","6,304,700.00",5.28%,"7,980.63","Animation, Family, Fantasy",Vasiliy Rovenskiy,"Pavel Priluchny, Polina Gagarina, Roman Kurtsyn",Licensing Brands
+Uurdlin hair,39,749,"5,707,090.92","6,277,800.00",5.70%,"8,381.58",,,,
+Harbin,38,577,"5,608,636.36","6,167,500.00",12.19%,"10,688.91","Drama, Action, Thriller",Chen Kaige,"Hyun Bin, Lee Dong-wook, Park Hoon",CJ Entertainment
+10 Lives,37,659,"5,558,727.28","6,114,600.00",10.94%,"9,278.20","Drama, Thriller",Chris Jenkins,"Zayn, Mo Gilligan, Simone Ashley",GFM Animation
+Wicked,35,575,"5,531,181.82","6,084,300.00",9.52%,"10,581.39","Fantasy, Musical",Stephen Daldry,"Ariana Grande, Cynthia Erivo, Jonathan Bailey",Universal Pictures
+Tad the Lost Explorer and the Emerald Tablet,47,929,"5,513,236.38","6,062,400.00",11.54%,"8,155.73","Animation, Adventure, Family","David Alonso, Enrique Gato","Óscar Barberán, Michelle Jenne, Alexandra Jiménez",Paramount Pictures
+After Everything,47,651,"5,491,454.55","6,040,600.00",6.74%,"9,278.96","Drama, Romance",Hannah Marks,"Josephine Langford, Josephine Langford, Mimi Keene",Voltage Pictures
+"Ruby Gillman, Teenage Kraken",61,802,"5,479,636.38","6,027,600.00",6.89%,"7,515.71","Animation, Adventure, Comedy","Kirk DeMicco, Faryn Pearl","Lana Condor, Jordan Matter, Preston Arsement",Universal Pictures
+Барх шаарий,42,667,"5,447,090.92","5,991,800.00",9.03%,"8,938.21",,,,
+Teenage Mutant Ninja Turtles 2,67,717,"5,389,454.56","5,928,400.00",5.04%,"8,268.34","Animation, Action, Adventure","Jeff Rowe, Kyler Spears",,
+Imaginary,21,634,"5,294,090.92","5,823,500.00",17.46%,"9,185.33","Drama, Fantasy, Mystery",Chris Ebstein,"DeWanda Wise, Tom Payne, Taegen Burns","Starz Entertainment,"
+Dear David,21,655,"5,205,272.74","5,721,800.00",16.07%,"8,735.57","Horror, Thriller",John McPhail,"Andrea Bang, Augustus Prew, Justin Long",Lionsgate Films
+Bed Rest,15,602,"5,100,272.73","5,610,300.00",23.78%,"9,319.44","Horror, Thriller",Lori Evans Taylor,"Melissa Barrera, Kristen Sawatzky, Guy Burnet",Tubi
+The Matrix Resurrections,50,681,"5,099,363.65","5,609,300.00",8.85%,"8,236.86","Action, Sci-Fi, Thriller","Lana Wachowski, Lilly Wachowski","Jessica Henwick, Keanu Reeves, Eréndira Ibarra",Warnes Bros. Pictures
+The King's Man,42,677,"4,911,927.29","5,402,000.00",9.38%,"7,973.32","Action, Adventure, War",Matthew Vaughn,"Stanley Tucci, Ralph Fiennes, Gemma Arterton",20th Century Studios
+Ghostbusters: Frozen Empire,37,543,"4,841,818.18","5,326,000.00",10.37%,"9,808.47","Comedy, Fantasy, Horror",Jason Reitman,"Mckenna Grace, Emily Alyn Lind, Carrie Coon",Sony Pictures
+Concrete Utopia,49,567,"4,816,636.37","5,298,300.00",13.85%,"9,344.44","Drama, Thriller",Um Tae-hwa,"Lee Byung-hun, Park Ji-hu, Park Bo-young",Lotte Entertainment
+"Lyle, Lyle, Crocodile",42,752,"4,785,127.29","5,262,200.00",8.70%,"6,997.61","Animation, Adventure, Comedy","Josh Gordon, Will Speck","Winslow Fegley, Javier Bardem, Shawn Mendes",Sony Pictures
+FearBook 3,33,634,"4,671,181.83","5,136,300.00",10.63%,"8,101.42","Horror, Mystery, Thriller",,,
+Top Gun: Maverick,90,628,"4,659,545.47","5,123,100.00",5.76%,"8,157.80","Action, Drama",Joseph Kosinski,"Miles Teller, Tom Cruise, Val Kilmer",Paramount Pictures
+Indiana Jones and the Dial of Destiny,46,580,"4,646,636.37","5,111,300.00",6.67%,"8,812.59","Action, Adventure, Sci-Fi",James Mangold,"Harrison Ford, Mads Mikkelsen, Phoebe Waller-Bridge",Walt Disney Pictures 
+Borderlands,46,492,"4,615,454.55","5,077,000.00",12.45%,"10,319.11","Action, Adventure, Sci-Fi",Eli Roth,"Cate Blanchett, Ariana Greenblatt, Gina Gershon",Starz Entertainment 
+Dr. Cheon and Lost Talisman,39,609,"4,590,045.45","5,047,800.00",14.74%,"8,288.67","Drama, Fantasy, Mystery",Kim Seong-hoon,"Gang Dong-won, Huh Joon-ho, Esom",CJ Entertainment
+Three Wishes for Cinderella,25,641,"4,575,636.38","5,033,200.00",15.66%,"7,852.11","Drama, Family, Fantasy",Sophie Kopera,"Cengiz Al, Astrid S, Ellen Dorrit Petersen",Storm Films
+Noah’s Ark,45,544,"4,547,363.64","5,002,100.00",7.74%,"9,195.04","Animation, Adventure, Family","Sérgio Machado,","Rodrigo Santoro, Marcelo Adnet, Alice Braga",Warnes Bros. Pictures
+Миний найз бүсгүй сүнс,27,440,"4,497,363.63","4,947,100.00",9.53%,"11,243.41","Comedy, Fantasy, Romance",Bujin Soyolbaatar,,Cine Art
+Кикоро нүүд тарих 2,65,604,"4,197,431.82","4,614,050.00",5.69%,"7,639.16",,,,
+The Equalizer 3,51,513,"4,196,636.37","4,616,300.00",5.94%,"8,998.64","Action, Crime, Thriller",Antoine Fuqua,"Denzen Washington, Dakota Fanning, Eugenio Mastrandrea",Sony Pictures
+Хайрын домог,17,453,"4,156,818.18","4,572,500.00",13.52%,"10,093.82","Drama, Romance",Chinguun Balhjav,"Selenge Chadraabal, Lhagva-Ochir E, Gursed Dalhsuren",UBS Television
+Kraven the Hunter,32,435,"4,112,272.73","4,522,500.00",6.04%,"10,396.55","Action, Adventure, Sci-Fi",J.C. Chandor,"Aaron Taylor-Johnson, Ariana DeBose, 	Fred Hechinger",Marvel Entertainment 
+The Childe,35,490,"4,105,454.55","4,516,000.00",13.41%,"9,216.33","Action, Drama, Thriller",Park Hoon-jung,"Kim Seon-ho, Kang Tae-Ju, Kim Kang-woo",Goldmoon Film
+Happy New Year,23,540,"4,054,181.83","4,459,600.00",13.71%,"8,258.52","Comedy, Drama, Romance",Kwak Jae-yong,,
+Mean Girls,35,500,"4,020,272.73","4,422,300.00",11.29%,"8,844.60","Comedy, Drama",Mark Waters,"Reneé Rapp, Avantika Vandanapu, Angourie Rice",Paramount Pictures
+Nehuul,50,539,"4,016,000.01","4,417,600.00",6.03%,"8,195.92",Drama,Bayrsaikhan Sainbayr,"Bazarragchaa Byambajav, Anhbayar Batbaatar, Batmaa Bayarsaikhan",Has Media Entertainment 
+Return To Seoul,67,529,"3,978,318.18","4,372,400.00",8.35%,"8,265.41","Drama, Romance",Davy Chou,"Kim Sun-young, Kim Sung-oh, Shin Dong-ho",Les Films du Losange
+65,34,472,"3,879,181.82","4,267,100.00",7.25%,"9,040.47","Action, Adventure, Sci-Fi","Scott Beck, Bryan Woods","Adam Driver, Ariana Greenblatt, Chloe Coleman",Raimi Productions
+New Normal,35,475,"3,863,000.01","4,249,300.00",10.85%,"8,845.89","Drama, Comedy",Jung Bum-shik,"New Normal, Lee Yoo-mi, P.O",Unpa Studio
+Tomb Of The River,28,493,"3,856,000.01","4,241,600.00",12.97%,"8,603.65","Action, Adventure, Drama",,,
+Ron’s Gone Wrong,36,620,"3,844,854.56","4,215,900.00",9.71%,"6,799.84","Animation, Adventure, Comedy",Sarah Smith,"Kylie Cantrall, Thomas Barbusca, Liam Payne ",Locksmith Animation
+Huligaan,20,507,"3,801,090.92","4,181,100.00",9.02%,"8,246.94",,,,
+Nutcracker And The Magic Flute,44,561,"3,750,018.20","4,120,700.00",6.71%,"7,345.28","Animation, Family, Fantasy",Viktor Glukhushin,"Elena Shulman, Fedor Fedotov, Lyubov Aksyonova",CTB Film Company 
+Halloween Ends,46,548,"3,743,200.01","4,116,800.00",8.23%,"7,512.41","Horror, Thriller",David Gordon Green,"Rohan Campbell, James Jude Courtney, Jamie Lee Curtis",Universal Pictures
+Setgeld Harvasan Tuya,40,484,"3,682,727.28","4,051,000.00",7.00%,"8,369.83",Drama,Mar Tashimovich Baidjiev,"Dulguun-Ayush G, Anu Namshir, Anhbayar Pagmadul",Has Media Entertainment
+200% Чоно,29,473,"3,666,000.00","4,032,600.00",8.52%,"8,525.58","Animation, Adventure, Comedy",Alexs Stadermann,"Samara Weaving, Ilai Swindells, Jennifer Saunders",Flying Bark Productions
+Float,25,407,"3,609,363.64","3,970,300.00",11.37%,"9,755.04","Animation, Adventure, Family",Sherren Lee,"Robbie Amellm, Andrea Bang, Sarah Desjardins",Starz Entertainment
+Killers of The Flower Moon,28,383,"3,540,636.37","3,892,700.00",25.03%,"10,163.71","Drama, Crime, History",Martin Scorsese,"Leonardo DiCaprio, Martin Scorsese, Lily Gladstone",Paramount Pictures
+Cellar Door,31,352,"3,445,909.09","3,790,500.00",11.14%,"10,768.47","Thriller, Horror, Mystery",Vaughn Stein,"Scott Speedman, Jordana Brewster, Addison Timlin",Starz Entertainment
+Snow Queen and the Princess,42,497,"3,432,000.01","3,775,200.00",6.37%,"7,595.98","Animation, Fantasy, Family",Andrey Korn,"Jason Griffith, Lina Ivanova, Courtney Shaw",Voronezh Animation Studio
+Гайхамшигт Маурис,35,433,"3,315,909.10","3,647,500.00",4.26%,"8,423.79","Animation, Adventure, Family",Toby Genkel ,"Himesh Patel, Emilia Clarke, Hugh Laurie",Cantilever Media
+Around the World in 80 Days,28,541,"3,263,581.83","3,587,700.00",9.47%,"6,631.61","Adventure, Comedy, Family",Frank Coraci,"Raphael Alejandro, Madi Monroe, Deven Christian Mack",StudioCanal
+Death on the Nile,49,446,"3,225,818.19","3,548,400.00",3.24%,"7,956.05","Crime, Drama, Mystery",Kenneth Branagh,"Kenneth Branagh, Gal Gadot, Armie Hammer",TSG Entertainment
+My Hero Academia: You are Next,29,388,"3,145,454.55","3,460,000.00",7.43%,"8,917.53","Animation, Action, Sci-Fi",Tensai Okamura,"Christopher Sabat, Mamoru Miyano, Yuki Kaji","Toho Co., Ltd."
+Hurd,8,384,"3,107,272.73","3,418,000.00",30.77%,"8,901.04",,,,
+Huulich,32,396,"3,066,309.10","3,366,300.00",6.60%,"8,500.76",,,,
+Ambulance,36,424,"3,056,454.55","3,362,100.00",6.95%,"7,929.48","Action, Crime, Thriller",Michael Bay,"Eiza González, Jake Gyllenhaal, Olivia Stambouliah",New Republic Pictures
+,,,,,,,,,,
+Naughty,38,350,"3,013,818.19","3,315,200.00",5.69%,"9,472.00","Drama, Comedy",Dmitriy Suvorov,"Anastasiya Reznik, Alexander Petrov, Anna Churina",Nashe Kino
+Beekeeper,38,356,"3,010,181.82","3,311,200.00",6.71%,"9,301.12","Action, Thriller",Antoine Fuqua,"Jason Statham, Josh Hutcherson, Taylor James",Amazon MGM Studios
+Escape from Mogadishu,36,405,"2,992,727.28","3,292,000.00",6.60%,"8,128.40","Action, Drama, Thriller",Ryoo Seung-wan,"Zo In-sung, Kim Yoon-seok, Kim Yoon-seok",Lotte Entertainment
+Dune,37,391,"2,978,545.46","3,276,400.00",12.01%,"8,379.54","Sci-Fi, Adventure, Drama",Denis Villeneuve,"Timothée Chalamet, Zendaya, Rebecca Ferguson",Warner Bros. Pictures
+Dasgaljuulagch,34,395,"2,964,036.37","3,258,200.00",6.04%,"8,248.61",,,,
+Afraid,47,294,"2,902,818.18","3,193,100.00",4.46%,"10,860.88","Horror, Thriller, Drama",Chris Weitz,"John Cho, Katherine Waterston, Lukita Maxwell",Columbia Pictures
+Broker,21,392,"2,797,727.28","3,077,500.00",14.20%,"7,850.77","Drama, Comedy",Hirokazu Kore-eda,"Kang-ho Song, IU, Gang Dong-won",CJ ENM
+Anatomy of a Fall,30,286,"2,786,431.82","3,060,450.00",9.63%,"10,700.87","Drama, Thriller",Justine Triet,"Sandra Hüller, Swann Arlaud, Milo Machado-Graner",Les Films Pelléas
+Бяцхан баатрууд,36,375,"2,778,909.10","3,056,800.00",6.07%,"8,151.47","Animation, Family, Adventure",,,
+Үүлэн сэтгэл,28,278,"2,761,454.54","3,037,600.00",8.94%,"10,926.62",Drama,Erdene-Ochir Luvsandag,"Odgerel Batorshih, Baasanjargal S, Gursed Dalhsuren",
+Zusem Zurh,16,386,"2,709,872.74","2,980,300.00",11.94%,"7,720.98",Drama,,,
+The Creator,44,366,"2,700,000.01","2,970,000.00",4.01%,"8,114.75","Sci-Fi, Action, Adventure",Gareth Edwards,"John David Washington, Gemma Chan, Madeleine Yuna Voyles",20th Century Studios
+Napoleon,36,276,"2,684,454.54","2,950,900.00",7.80%,"10,691.67","Drama, History",Ridley Scott,"Vanessa Kirby, Joaquin Phoenix, Anna Mawn",Columbia Pictures
+Companion,30,244,"2,625,000.00","2,887,500.00",12.38%,"11,834.02",Drama,Drew Hancokc,"Sophie Thatcher, Jack Quaid, Megan Suri",Warner Bros. Pictures
+Creed III,34,307,"2,521,272.73","2,773,400.00",8.28%,"9,033.88","Drama, Sport",Michael B. Jordan,"Jonathan Majors, Michael B. Jordan, Tessa Thompson",Metro-Goldwyn-Mayer
+Bekhen Zurkh,5,289,"2,520,636.37","2,772,700.00",26.08%,"9,594.12",Drama,Battushig A,,
+The Watchers,17,277,"2,501,272.73","2,751,400.00",6.45%,"9,932.85","Thriller, Horror",Ishana Night Shyamalan,"Dakota Fanning, Georgina Campbell, Olwen Fouéré",Warner Bros. Pictures
+Jujutsu Kaisen 0,27,392,"2,479,000.00","2,726,900.00",8.32%,"6,956.38","Animation, Action, Fantasy",Sunghoo Park,"Kayleigh McKee, Takahiro Sakurai, Kaiji Tang","Toho Co., Ltd."
+Baba Yaga,52,314,"2,461,272.73","2,707,400.00",3.43%,"8,622.29","Horror, Fantasy",Svyatoslav Podgayevskiy,,
+Smugglers,21,292,"2,383,636.37","2,622,000.00",8.19%,"8,379.15","Action, Thriller",Hong Seung-wan,"Zo In-sung, Kim Hye-soo, Park Jeong-min",Next Entertainment World
+Sleep,28,283,"2,330,090.91","2,563,100.00",13.95%,"9,056.89","Horror, Mystery, Thriller",Jason Yu,"Lee Sun-kyun, Jung Yu-mi, Kim Geum-soon",Lotte Entertainment
+Valley of Lanterns,34,361,"2,274,272.73","2,501,700.00",6.35%,"6,929.92","Drama, Family, Fantasy",Caleb Hystad,"Nicole Oliver, Samantha Ferris, Ian Hanlin",New Machine Studios
+Spider-Man: No Way Home. More Fun Stuff,32,316,"2,194,545.46","2,414,000.00",27.01%,"7,623.94","Action, Adventure, Sci-Fi",Jon Watts,"Tom Holland, Andrew Garfield, Toby Maguire ",Sony Pictures
+IF,33,256,"2,097,181.82","2,306,900.00",5.17%,"9,011.33","Drama, Fantasy",John Krasinski,"Cailey Fleming, Ryan Reynolds, John Krasinski",Paramount Pictures
+Ditto,11,244,"2,090,090.91","2,299,100.00",12.98%,"9,422.54","Drama, Romance",Kim Jung-kwon,"Bae In-hyuk, Yeo Joo-ha, Yeo Jin-goo",CJ ENM
+Yumi’s Cells: The Movie,24,252,"2,087,363.64","2,296,100.00",8.02%,"9,111.51","Animation, Drama, Romance",Lee Sang-yeob,"Um Sang-hyun, Yoon Ah-yeong, Shim Kyu-hyeok",CJ CGV
+Huslen,17,264,"2,080,181.82","2,288,200.00",12.96%,"8,667.42",,,,
+Love in the Big City,21,207,"2,032,363.64","2,235,600.00",10.68%,"10,800.00","Drama, Romance",Lee Eon-hui,"Kim Go-eun, Noh Sang-hyun, Lee Yoo-jin",Plus M Entertainment
+Oldboy - Монгол хэлээр,2,197,"1,991,818.18","2,191,000.00",74.34%,"11,121.83","Action, Drama, Thriller",Park Chan-wook,"Kang Hye-jung, Choi Min-sik, Yoo Yeon-seok",Show East
+Decibel,15,247,"1,895,181.82","2,084,700.00",8.12%,"8,404.08","Action, Thriller, Drama",Hwang In-ho,"Lee Jong Suk, Jo In-woo, Cha Eun-woo",East Dream Synopex
+Eh orondoo I ochihson,3,236,"1,890,000.00","2,079,000.00",33.05%,"8,809.32","Drama, Fantasy",Batbileg Zoljargal,,
+Lover Boi,23,210,"1,872,272.73","2,059,500.00",7.14%,"9,807.14","Romance, Drama",,,
+My Chilling Roommate,26,229,"1,782,636.37","1,959,300.00",7.26%,"8,555.90","Drama, Horror, Mystery",Hwang Kyung-Sung,"PARK EUN WOO, Kim So-jeong, Chanwoo",
+Transformers One,36,217,"1,752,909.09","1,928,200.00",2.68%,"8,885.71","Animation, Action, Adventure",Josh Cooley,"Brian Tyree Henry, Chris Hemsworth, Vanessa Liguori",Paramount Pictures
+Late Night With The Devil,22,182,"1,747,545.46","1,922,300.00",3.45%,"10,562.09","Horror, Thriller",Cameron Cairnes,"David Dastmalchian, Ingrid Torelli, Laura Gordon",Shudder
+The Exorcism,18,190,"1,741,645.46","1,915,810.00",4.41%,"10,083.21","Horror, Thriller",Joshua John Mille,"Russell Crowe, Ryan Simpkins, Chloe Bailey",Interfilm
+Hansan: Rising Dragon,14,234,"1,727,454.55","1,900,200.00",10.71%,"8,120.51","Action, Drama, History",Kim Han-min,"Park Hae Il, TAECYEON, Bae Hyun-sung",Lotte Entertainment
+Шидэт түүх,48,304,"1,725,590.91","1,894,400.00",3.30%,"6,231.58",,,,
+Тоглоомон найзууд,14,219,"1,725,000.00","1,897,500.00",8.69%,"8,664.38",,,,
+Girls To Buy,25,209,"1,697,818.19","1,867,600.00",13.76%,"8,935.89","Drama, Action ",Maria Sadowska,"Paulina Gałązka, Giulio Berruti, Katarzyna Sawczuk",Ent One and Ent One Studios. 
+PAW Patrol: The Mighty Movie,27,258,"1,696,090.92","1,865,700.00",4.77%,"7,231.40","Animation, Adventure, Family",Cal Brunker,"Kim Kardashian, Mckenna Grace, James Marsden",Paramount Pictures
+DDay - Only The River Flows,1,163,"1,630,000.00","1,773,000.00",79.90%,"11,000.00","Action, Drama",Park Ki-hyung,"Zhu Yilong, Yan Hexiang, Chloe Maayan ",Lian Ray Pictures
+Policeman's Lineage,15,218,"1,613,454.55","1,774,800.00",8.61%,"8,141.28","Action, Crime, Drama",Lee Kyoo-man,"Kwon Yul, Choi Woo-shik, Park Hee-soon","Ace Maker Movieworks Co., Ltd."
+Switch,25,196,"1,592,090.91","1,751,300.00",4.85%,"8,935.20","Drama, Thriller",Ma Dae-yun,"Kim Joon, Park So-yi, Lee Min-jung",Lotte Entertainment
+Dragon Girl,13,230,"1,578,090.91","1,735,900.00",10.83%,"7,547.39","Family, Adventure ",Øyvind Asbjørnsen,"wilhelm david lumholt hakesberg, Anders Baasmo, Solveig Kloppen",Sola Media. 
+6 45,15,198,"1,573,818.18","1,731,200.00",8.73%,"8,748.43","Drama, Thriller, Horror",Craig Singer,"Remy Ma, Ray Mancini, Augie Duke",Well Go USA Entertainment
+The Shining,3,194,"1,555,909.09","1,711,500.00",31.70%,"8,822.16","Horror, Mystery",Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",Warner Bros. Pictures
+Twilight of the Warriors: Walled In,31,149,"1,543,272.73","1,695,600.00",3.97%,"11,379.87","Action, Adventure, Thriller",Soi Cheang,"Louis Koo, Terrance Lau, Sammo Hung",Sony Pictures
+Dogs at the Opera,31,189,"1,497,454.55","1,647,200.00",8.74%,"8,715.34","Drama, Comedy",Vasiliy Rovenskiy,"Pavel Priluchnyy, Pavel Priluchnyy, Tygo Gernandt",Filmfinity
+Argyle,30,171,"1,447,818.18","1,592,600.00",5.20%,"9,313.45","Action, Thriller",Matthew Vaughn,"Bryce Dallas Howard, Henry Cavill, Sam Rockwell",Apple TV+
+Finding Callaro,18,226,"1,333,272.73","1,466,600.00",6.15%,"6,489.38","Drama, Thriller",Various,,
+Pororo Dragon Castle Adventure,41,188,"1,302,272.73","1,432,500.00",1.67%,"7,619.68","Animation, Adventure, Family",Yoon Je-wan,"Kim Seo-yeong, Lee Seon, Kim Hyeon-ji",Ocon Studios
+Missing,25,170,"1,293,727.27","1,423,100.00",4.39%,"8,371.18","Thriller, Mystery",Will Merrick,"Storm Reid, Nia Long, Ken Leung",Sony Pictures
+Taigiin ezen,11,147,"1,286,727.27","1,415,400.00",7.70%,"9,628.57","Drama, Fantasy",Various,,
+Alienoid The Return to the Future,28,144,"1,262,909.09","1,389,200.00",7.45%,"9,647.22","Sci-Fi, Action",Choi Dong-ho,"Lee Hanee, Kim Woo-bin, Kim Tae-ri",CJ ENM
+Blue Lock: Episode Nagi,18,145,"1,253,363.64","1,378,700.00",3.03%,"9,508.28","Animation, Sport",Shunsuke Ishikawa,"Nobunaga Shimazaki, Yuma Uchida, Kazuyuki Okitsu",Eight Bit
+A Haunting in Venice,18,152,"1,243,181.82","1,367,500.00",6.12%,"8,986.71","Horror, Mystery, Thriller",Kenneth Branagh,"Kenneth Branagh, Tina Fey, Michelle Yeoh",20th Century Studios
+On The Line,14,172,"1,226,090.91","1,348,700.00",7.88%,"7,841.28","Thriller, Drama",Romuald Boulanger,"Mel Gibson, William Moseley, Kevin Dillon",BondIt Media Capital
+Expend4bles,21,148,"1,223,909.09","1,346,300.00",5.10%,"9,096.62","Action, Adventure, Thriller",Scott Waugh,"Jason Statham, Sylvester Stallone, Megan Fox",Millennium Media
+Robot Nohoi,35,190,"1,220,090.91","1,342,100.00",2.98%,"7,703.68",,,,
+Perhaps Love,25,175,"1,216,363.64","1,338,000.00",4.89%,"7,645.71","Drama, Romance",Peter Chan,"Takeshi Kaneshiro, Zhou Xun, Jacky Cheung",We Pictures
+Interstellar,3,154,"1,214,727.28","1,336,200.00",32.91%,"8,676.62","Sci-Fi, Drama",Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain","Legendary Pictures, Syncopy"
+Snejinka,19,158,"1,204,690.91","1,322,200.00",4.02%,"8,368.35",,,,
+Alienoid,11,170,"1,197,636.37","1,317,400.00",3.71%,"7,749.41","Sci-Fi, Action, Thriller",Choi Dong-ho,"Ryu Jun-yeol, Kim Woo-bin, Kim Tae-ri",Caper Film
+Babylon,13,147,"1,196,818.18","1,316,500.00",12.04%,"8,955.78",Drama,Damien Chazelle,"Brad Pitt, Margot Robbie, Diego Calva",Paramount Pictures
+Сургуульйн хайрны түүх 2,13,167,"1,140,818.19","1,280,000.00",8.04%,"7,141.37","Drama, Romance",Baatar Batbaatar,,
+Den of Thieves 2: Pantera,21,111,"1,100,363.64","1,309,604.50",4.20%,"10,904.50","Action, Crime, Thriller",Christian Gudegast,"Gerard Butler, O’Shea Jackson Jr., Curtis '50 Cent' Jackson",Diamond Film Productions
+Bob Marley: One Love,16,128,"1,082,000.00","1,190,200.00",6.78%,"9,298.44","Documentary, Music",Reinaldo Marcus Green,"Kingsley Ben-Adir, Lashana Lynch, James Norton",Paramount Pictures
+Paradise Highway,22,140,"1,063,363.64","1,169,700.00",3.86%,"7,595.45","Drama, Thriller",Anna Gutto,"Juliette Binoche, Frank Grillo, Morgan Freeman",Silver Reel
+Gran Turismo,19,129,"1,036,909.09","1,140,600.00",10.02%,"8,841.86","Drama, Action, Sport",Neill Blomkamp,"David Harbour, Orlando Bloom, Archie Madekwe",Columbia Pictures
+Cobweb Korean,18,124,"1,033,272.73","1,136,600.00",8.93%,"9,166.13","Comedy, Drama ",Kim Jee-woon,"Song Kang-ho, Lim Soo-jung, Oh Jung-se",Anthology Studio
+Boonie Bears: Time Twist,28,136,"1,025,454.55","1,125,000.00",2.71%,"8,272.06","Animation, Comedy, Science Fiction",Lin Yongchang,"Zhang Bingjun, Zhang Wei, Tan Xiao",Fantawild Animation
+Special Cargo,7,144,"1,017,636.37","1,119,400.00",11.13%,"7,773.61","Action, Thriller, Drama",Lee Chung-hyun,"Park So-dam, Song Sae-byeok, Kim Eui-sung",M Pictures
+,,,,,,,,,,
+Цагаан Туг,17,95,"954,636.36","1,050,100.00",4.93%,"11,053.68",Drama,DAvaajav Bayarsaikhan,Samdanpurev Oyunsambuu,Chog Som film
+The Point Men,18,119,"944,181.82","1,038,600.00",4.24%,"8,727.73","Action, Thriller, Drama",Yim Soon-rye,"Hwang Jung-min, Hyun Bin, Kang Ki-young",Watermelon Pictures
+Barkers: Mind The Cats,28,150,"934,545.46","1,028,000.00",3.43%,"6,853.33","Family, Adventure ", Elena Galdobina,,
+Зомбитой кино,1,143,"933,181.82","1,026,500.00",7.18%,"7,318.32","Horror, Comedy",Tuguldur Bayrmaa,,
+Contractor,17,120,"875,272.73","962,800.00",3.90%,"8,023.33","Action, Thriller",Nikolai Lebedev,"Chris Pine, Ben Foster, Kiefer Sutherland",30West
+1UP,21,115,"872,545.46","959,800.00",3.51%,"8,346.09","Comedy, Drama",Kyle Newman,"Paris Berelc, Ruby Rose, Taylor Zakhar Perez",BuzzFeed Studios
+Veteran 2: The Executioner,12,88,"838,545.45","922,400.00",8.53%,"10,481.82","Action, Thriller, Drama",Ryu Seung-wan,"Jung Hae-in, Hwang Jung-min, Ahn Bo-hyun",CJ ENM
+Confession,10,103,"836,436.36","917,200.00",4.35%,"8,904.85","Thriller, Drama",Lee Do-yun,"So Ji-sub, Kim Yun-jin, Nana",Lotte Entertainment
+Илбэт цурхайн туужаалаар,20,136,"800,000.00","880,000.00",5.65%,"6,470.59",Drama,Batbayar Batmunkh,,
+Harold and the Purple Crayon,21,99,"796,181.82","875,800.00",3.57%,"8,846.46","Animation, Family, Adventure",Carlos Saldanha,"Zachary Levi, Zooey Deschanel, Lil Rel Howery",Columbia Pictures
+SAO: Aria of a Starless Night,19,118,"792,272.73","871,500.00",3.50%,"7,385.59","Animation, Action, Fantasy",Ayako Kono,"Yoshitsugu Matsuoka, Haruka Tomatsu, Inori Minase",A-1 Pictures
+Confidental Assignment,7,99,"758,818.18","834,700.00",9.35%,"8,431.31","Action, Thriller, Drama",Kim Hyun-joo,"Hyun Bin, Yoo Hae-jin, Kim Joo-hyuk",JK Film
+12.12: The Day,12,74,"741,818.18","816,000.00",3.76%,"11,027.03","Thriller, Drama,, Action",Kim Sung-su,"Jung Woo-sung, Jung Hae-in, Yeom Dong-heon",815 Pictures
+The Wolves Always Come at Night,1,72,"720,000.00","792,000.00",19.46%,"11,000.00","Documentary, Fiction",Gabrielle Brady,"Otgonzaya Dashzeveg, Davaasuren Dagvasuren",
+A Man of Reason,14,93,"690,909.09","760,000.00",3.89%,"8,172.04","Drama, Thriller, Action",Jung Woo-sung,"Jung Woo-sung, Kim Nam-gil, Park Sung-woong",Studio & NEW
+Challengers,21,70,"690,000.00","759,000.00",3.16%,"10,842.86","Drama, Sport",Luca Guadagnino,"Zendaya, Josh O’Connor, Mike Faist",Metro-Goldwyn-Mayer
+Shang-Chi and the Legend of the Ten Rings,4,83,"666,363.64","733,000.00",76.85%,"8,831.33","Action, Adventure, Fantasy",Destin Daniel Cretton,"Simu Liu, Awkwafina, Tony Leung Chiu-wai",Marvel Studios
+Wandering Earth 2,10,77,"648,272.73","713,100.00",11.72%,"9,261.04","Sci-Fi, Action, Adventure",Frant Gwo,"Wu Jing, Andy Lau, Zhang Fengyi",China Film Group
+Tyvyn Darkhan,6,74,"610,181.82","671,200.00",7.91%,"9,070.27",Drama,,,
+Spiritwalker,7,77,"604,545.46","665,000.00",40.74%,"8,636.36","Action, Fantasy, Drama",Yoon Jae-kyun,"Yoon Kye-sang, Park Yong-woo, Lim Ji-yeon",BA Entertainment
+aespa: My First Page,15,71,"603,090.91","663,400.00",2.08%,"9,343.66","Documentary, Music",Jo Hyeon-jeong,"Karina, Giselle, Winter, Ningning",SM Entertainment
+Project Gemini,7,86,"577,272.73","635,000.00",7.88%,"7,383.72","Sci-Fi, Action, Drama",Serik Beyseu,"Egor Koreshkov, Alena Konstantinova, Dmitriy Frid",Vodorod
+Ferrari,19,70,"576,409.09","632,800.00",3.08%,"9,040.00","Drama, Biography, Sport",Michael Mann,"Adam Driver, Penélope Cruz, Shailene Woodley",Moto Pictures
+LOTR: The Fellowship of The Rings,4,75,"566,545.46","623,200.00",7.54%,"8,309.33","Fantasy, Adventure, Drama",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",WingNut Films
+SAO - P. - Scherzo of Deep Night,6,68,"548,090.91","602,900.00",7.26%,"8,866.18","Animation, Action, Fantasy",Manabu Ono,"Yoshitsugu Matsuoka, Haruka Tomatsu, Inori Minase",A-1 Pictures
+LOTR: The Two Towers,3,68,"537,363.64","591,100.00",14.53%,"8,692.65","Fantasy, Adventure, Drama",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",WingNut Films
+Beautiful Disaster,11,61,"537,363.64","591,100.00",4.14%,"9,690.16","Drama, Romance",Roger Kumble,"Dylan Sprouse, Virginia Gardner, Austin North",Voltage Pictures
+Пороро Поп оддын адал явдал,22,76,"536,727.27","590,000.00",1.57%,"7,768.42","Animation, Family",,"Lee Seon, Ham Su-jung, Kim Hwan-jin",ICONIX Entertainment
+Detective Conan: The Million-Dollar Pentagram,16,65,"522,000.00","574,200.00",2.57%,"8,833.85","Animation, Mystery, Thriller",Tomoka Nagaoka,"Minami Takayama, Wakana Yamazaki, Ryo Horikawa",TMS Entertainment
+Operation Fortune,14,63,"520,090.91","572,100.00",2.58%,"9,080.95","Action, Comedy, Thriller",Guy Ritchie,"Jason Statham, Aubrey Plaza, Hugh Grant",Miramax
+How To Have Sex,16,57,"518,181.82","570,000.00",13.19%,"10,000.00","Drama, Comedy",Molly Manning Walker,"Mia McKenna-Bruce, Lara Peake, Enva Lewis",Wild Swim Films
+Time is Up,65,63,"513,818.18","565,200.00",2.51%,"8,695.38","Drama, Romance",Elisa Amoruso,"Bella Thorne, Benjamin Mascolo, Sebastiano Pigazzi",Lotus Production
+Sakra,12,59,"509,272.73","560,200.00",4.81%,"9,494.92","Action, Drama",Donnie Yen,"Donnie Yen, Chen Yuqi, Cya Liu",Wishart Media
+Dune I: Re-issue,4,48,"509,181.82","560,100.00",5.88%,"11,668.75","Sci-Fi, Adventure, Drama",Denis Villeneuve,"Timothée Chalamet, Rebecca Ferguson, Zendaya",Legendary Entertainment
+Nudarga,14,61,"508,363.64","557,200.00",2.42%,"9,134.43",,,,
+The Unbearable Weight of Massive Talent,20,74,"507,909.09","558,700.00",2.01%,"7,550.00","Action, Comedy, Crime",Tom Gormican,"Nicolas Cage, Pedro Pascal, Tiffany Haddish",Saturn Films
+The Fall Guy,18,50,"488,363.64","537,200.00",3.48%,"10,744.00","Action, Adventure, Thriller",David Leitch,"Ryan Gosling, Emily Blunt, Hannah Waddingham",87North Productions
+Sound Of Freedom,31,63,"483,636.36","532,000.00",3.52%,"8,444.44","Drama, Thriller",Alejandro Monteverde,"Jim Caviezel, Mira Sorvino, Bill Camp",Angel Studios
+Decision To Leave,7,60,"461,181.82","507,300.00",6.69%,"8,455.00","Crime, Drama, Mystery",Park Chan-wook,"Park Hae-il, Tang Wei, Lee Jung-hyun",Moho Film
+j-hope IN THE BOX,6,42,"458,181.82","504,000.00",3.09%,"12,000.00","Documentary, Music",Jung Kook,"Jung Ho-seok, BTS",HYBE
+Noryang Deadly Sea,12,51,"448,863.64","492,500.00",2.92%,"9,656.86","Action, Drama, History",Lee Joon-ik,,
+Seventeen Power of Love,8,40,"436,363.64","480,000.00",3.21%,"12,000.00","Music, Documentary",OH Yoon-Dong,The 13 Members of SEVENTEEN,HYBE
+Mindcage,8,50,"432,818.18","476,100.00",3.76%,"9,522.00","Thriller, Crime",Mauro Borrelli,"Martin Lawrence, Melissa Roxburgh, John Malkovich",Boomtown Media
+Sain Huu,13,75,"420,090.91","462,100.00",3.17%,"6,161.33",,,,
+Tsus sorogchiin hair,22,50,"412,909.09","454,200.00",2.27%,"9,084.00",,,,
+The Electrical Life of Louis Wain,5,54,"410,545.46","451,600.00",6.92%,"8,362.96","Drama, Biography, History",Will Sharpe,"Benedict Cumberbatch, Claire Foy, Andrea Riseborough",Shoebox Films
+Limit,5,44,"390,909.09","430,000.00",5.64%,"9,772.73","Drama, Thriller",Seung-jun Yi,"Lee Jung-hyun, Moon Jeong-hee, Jin Seo-yeon",Master One Entertainment
+Here,12,39,"390,090.91","429,100.00",5.49%,"11,002.56",Drama,Robert Zemeckis,"Tom Hanks, Robin Wright, Paul Bettany",ImageMovers
+LotR: The Return of The King,3,48,"385,454.55","424,000.00",10.26%,"8,833.33","Fantasy, Adventure, Drama",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",WingNut Films
+"RM: Right people, Wrong place",16,41,"380,090.91","418,100.00",1.59%,"10,197.56",Drama,Lee Seokjun,Kim Namjoon,HYBE
+Memory,8,50,"371,272.73","408,400.00",3.47%,"8,168.00","Action, Thriller, Crime",Martin Campbell,"Liam Neeson, Guy Pearce, Monica Bellucci",Open Road Films
+Boogies Night,9,53,"368,909.09","405,800.00",3.22%,"7,656.60","Comedy, Drama",Paul Thomas Anderson,"Mark Wahlberg, Burt Reynolds, Julianne Moore",Ghoulardi Film Company
+Inception,3,46,"367,272.73","404,000.00",9.83%,"8,782.61","Action, Adventure, Sci-Fi",Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",Legendary Pictures
+,,,,,,,,,,
+Suga Road to D Day,6,32,"349,090.91","384,000.00",2.35%,"12,000.00","Documentary, Music",Park Jun-soo,Min Yoongi,HYBE
+Honest Candidate 2,12,48,"345,727.27","380,300.00",2.56%,"7,922.92","Comedy, Drama",Kim Jung-kwon,"Ra Mi-ran, Kim Mu-yeol, Yoon Kyung-ho",Soojak Film
+,,,,,,,,,,
+The Lord of the Rings: The War of the Rohirrim,33,34,"317,363.64","349,100.00",1.48%,"10,578.79","Animation, Adventure, Fantasy",Kenji Kamiyama,"Brian Cox, Gaia Wise, Miranda Otto",New Line Cinema
+Remember,14,42,"316,818.18","348,500.00",1.67%,"8,297.62","Drama, Thriller, Mystery",Lee Il-hyung,"Lee Sung-min, Nam Joo-hyuk, Jeong Man-sik",Moonlight Film
+Arthur The King,11,30,"305,454.55","336,000.00",10.10%,"11,200.00","Animation, Family, Adventure",Simon Cellan Jones,"Mark Wahlberg, Simu Liu, Ali Suliman",Paramount Pictures
+The Night Owl,7,34,"298,181.82","328,000.00",7.61%,"9,647.06","Thriller, Mystery",Ahn Tae-jin,"Ryu Jun-yeol, Yoo Hae-jin, Kim Sung-cheol",Next Entertainment World
+A Bigger World - France movie,1,63,"286,363.63","315,000.00",30.88%,"5,000.00",Drama,Fabienne Berthaud,"Cécile de France, Narantsetseg Dash, Tserendarizav Dashnyam",Estrella Productions
+Life is Beautiful,5,41,"282,181.82","310,400.00",5.26%,"7,570.73","Drama, Comedy",Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",Cecchi Gori Group
+The Covenant,8,36,"275,000.00","302,500.00",2.88%,"8,402.78","Action, Drama, Thriller",Guy Ritchie,"Jake Gyllenhaal, Dar Salim, Antony Starr",Miramax
+Maika,11,37,"262,090.91","288,300.00",1.62%,"7,791.89","Animation, Family, Fantasy",Ham Tran,"Phu Truong Lai, Diep Anh Chu, Thanh My",BHD
+The Three Musketeers Milady,14,29,"258,181.82","284,000.00",2.26%,"9,793.10","Action, Adventure, Drama",Martin Bourboulon,"Eva Green, François Civil, Vincent Cassel",Pathé
+The Three Musketeers: D’Artagnan,11,30,"255,454.55","281,000.00",1.75%,"9,366.67","Action, Adventure, Drama",Martin Bourboulon,"François Civil, Vincent Cassel, Romain Duris",Pathé
+No Time To Die,4,28,"227,272.73","250,000.00",25.93%,"8,928.57","Action, Adventure, Thriller",Cary Joji Fukunaga,"Daniel Craig, Léa Seydoux, Rami Malek",Eon Productions
+Mad Max: Fury Road,3,28,"225,454.55","248,000.00",5.98%,"8,857.14","Action, Adventure, Sci-Fi",George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult",Village Roadshow
+The Ministry of Ungentlemanly Warfare,12,23,"223,636.36","246,000.00",3.03%,"10,695.65","Action, Drama, War",Guy Ritchie,"Henry Cavill, Eiza González, Henry Golding",Black Bear Pictures
+Shotgun Wedding,8,27,"220,090.91","242,100.00",6.87%,"8,966.67","Comedy, Romance",Jason Moore,"Jennifer Lopez, Josh Duhamel, Jennifer Coolidge",Mandeville Films
+Doraemon: Nobita’s new dinosaur,5,33,"214,181.82","235,600.00",4.23%,"7,139.39","Animation, Family, Adventure",Takumi Watanabe,"Wasabi Mizuta, Megumi Oohara, Yumi Kakazu",Shin-Ei Animation
+The Dark Knight,3,24,"207,272.73","228,000.00",3.92%,"9,500.00","Action, Crime, Drama",Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",Legendary Pictures
+My Hero Academia: World Heroes’ Mission,4,27,"199,090.91","219,000.00",25.00%,"8,111.11","Animation, Action, Adventure",Kenji Nagasaki,"Daiki Yamashita, Nobuhiko Okamoto, Yuki Kaji",Bones
+Laal Singh Chaddha,3,27,"198,272.73","218,100.00",4.41%,"8,077.78","Drama, Romance",Advait Chandan,"Aamir Khan, Kareena Kapoor, Naga Chaitanya",Aamir Khan Productions
+,,,,,,,,,,
+Batman Begins,3,24,"194,727.27","214,200.00",4.65%,"8,925.00","Action, Adventure, Crime",Christopher Nolan,"Christian Bale, Michael Caine, Liam Neeson",Legendary Pictures
+Gentleman,5,22,"178,363.64","196,200.00",2.66%,"8,918.18","Drama, Comedy",Mahi Reddy,"Ju Ji-hoon, Park Sung-woong, Choi Sung-eun",Trickster
+Conni And The Cat,19,30,"177,363.64","195,100.00",0.89%,"6,503.33","Animation, Family, Adventure",Ansgar Niebuhr,"Emma Breitschaft, Valentin Schiwe, Juno Wellershoff",WunderWerk
+The Dark Knight Rises,3,21,"141,909.09","156,100.00",3.43%,"7,433.33","Action, Crime, Drama",Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway",Legendary Pictures
+IO Capitano,2,7,"76,363.64","84,000.00",12.96%,"12,000.00",Drama,Matteo Garrone,"Seydou Sarr, Moustapha Fall, Babacar Diop",Archimede
+Fate/Grand Order THE MOVIE Divine Realm,5,12,"61,363.64","67,500.00",1.54%,"5,625.00","Animation, Action, Fantasy",Kazuto Nakazawa,"Mamoru Miyano, Nobunaga Shimazaki, Rie Takahashi",Signal.MD
+Tuuh Martahgui 2,7,5,"39,090.91","43,000.00",2.65%,"8,600.00",Drama,Adiyadorjiin Munhsuh,,
+Air,4,7,"36,363.64","40,000.00",0.75%,"5,714.29","Drama, Sport",Ben Affleck,"Matt Damon, Ben Affleck, Jason Bateman",Amazon Studios
+Devotion,4,4,"36,363.64","40,000.00",0.51%,"10,000.00","Drama, War, History",J.D. Dillard,"Jonathan Majors, Glen Powell, Christina Jackson",Black Label Media
+Detective Conan Haibara Ai Monogatari Kurogane,7,4,"26,363.64","29,000.00",0.37%,"7,250.00","Animation, Mystery, Crime",Shunsuke Ishihara,"Megumi Hayashibara, Minami Takayama, Ryo Horikawa",TMS Entertainment
